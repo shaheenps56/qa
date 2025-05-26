@@ -1,7 +1,0 @@
-[environments.development]
-url = "jdbc:sqlserver://192.168.29.225;databaseName=GTLFLY;encrypt=true;integratedSecurity=true;trustServerCertificate=true"
-displayName = "Development database"
-
-[environments.target3]
-user = "Sf_usr"
-password = "${localSecret.Flyway Desktop 9ba65f27-5b03-46de-b500-321dcedad12a}"
